@@ -1,0 +1,11 @@
+{
+  "appId": "app.personnel.manager",
+  "appName": "مدیریت پرسنل",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#03070C"
+  }
+}
